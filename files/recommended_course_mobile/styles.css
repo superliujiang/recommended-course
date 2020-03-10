@@ -18,16 +18,24 @@
   z-index:0;
 }
 #u131 {
+  border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-}
-#u131_state0 {
-  position:relative;
   left:0px;
   top:0px;
   width:335px;
   height:915px;
+}
+#u131_state0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:335px;
+  height:915px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-color:rgba(255, 255, 255, 1);
   background-image:none;
   border:none;
@@ -1803,16 +1811,24 @@
   visibility:hidden;
 }
 #u159 {
+  border-width:0px;
   position:absolute;
-  left:0px;
-  top:0px;
-}
-#u159_state0 {
-  position:relative;
   left:0px;
   top:0px;
   width:335px;
   height:40px;
+}
+#u159_state0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:335px;
+  height:40px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-color:rgba(0, 150, 246, 1);
   background-image:none;
   border:none;
@@ -2166,11 +2182,16 @@
   visibility:hidden;
 }
 #u131_state1 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
   width:335px;
-  height:465px;
+  height:915px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-color:rgba(255, 255, 255, 1);
   background-image:none;
   border:none;
@@ -4630,11 +4651,16 @@
   text-transform:none;
 }
 #u131_state2 {
-  position:relative;
+  border-width:0px;
+  position:absolute;
   left:0px;
   top:0px;
   width:335px;
-  height:340px;
+  height:915px;
+  -ms-overflow-x:hidden;
+  overflow-x:hidden;
+  -ms-overflow-y:hidden;
+  overflow-y:hidden;
   background-color:rgba(255, 255, 255, 1);
   background-image:none;
   border:none;
